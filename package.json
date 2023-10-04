@@ -1,0 +1,22 @@
+{
+  "name": "namedc.js",
+  "version": "1.0.0",
+  "description": "A wrapper for namedc.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namedc-org/namedc.js.git"
+  },
+  "author": "aba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namedc-org/namedc.js/issues"
+  },
+  "homepage": "https://github.com/namedc-org/namedc.js#readme",
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}
